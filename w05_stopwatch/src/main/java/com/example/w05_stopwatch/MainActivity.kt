@@ -56,7 +56,7 @@ fun StopWatchApp() {
     LaunchedEffect(isRunning) {
         while (isRunning) {
             delay(10L)
-            timeInMillis += 10L
+            timeInMillis += 32L
         }
     }
 

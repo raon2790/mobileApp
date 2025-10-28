@@ -17,6 +17,7 @@
             <option value="$PROJECT_DIR$/w04_profile" />
             <option value="$PROJECT_DIR$/w05_counter" />
             <option value="$PROJECT_DIR$/w05_stopwatch" />
+            <option value="$PROJECT_DIR$/w06_bubble" />
           </set>
         </option>
       </GradleProjectSettings>
