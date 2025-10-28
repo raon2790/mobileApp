@@ -54,8 +54,8 @@ fun HomeScreen() {
         Column(
             modifier = Modifier
                 .fillMaxSize()
-                .padding(innerPadding)   // Scaffold에서 준 안전 여백
-                .padding(16.dp),         // 전체 화면 여백
+                .padding(innerPadding)
+                .padding(16.dp),
             horizontalAlignment = Alignment.CenterHorizontally,
             verticalArrangement = Arrangement.Center
         ) {
@@ -118,7 +118,7 @@ fun BottomBarArea() {
         Row(
             modifier = Modifier
                 .padding(12.dp)
-                .fillMaxWidth(),  // <= 이걸 쓰려면 fillMaxWidth import 필요
+                .fillMaxWidth(),
             horizontalArrangement = Arrangement.SpaceEvenly,
             verticalAlignment = Alignment.CenterVertically
         ) {
