@@ -23,3 +23,4 @@ rootProject.name = "ComposeLab"
 include(":app")
 include(":w03")
 include(":app_01")
+include(":app_02")
