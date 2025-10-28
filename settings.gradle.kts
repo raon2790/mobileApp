@@ -21,6 +21,6 @@ dependencyResolutionManagement {
 
 rootProject.name = "ComposeLab"
 include(":app")
-include(":w03")
-include(":app_01")
-include(":app_02")
+include(":w03_compose_coffee")
+include(":w03_password_check")
+include(":w04_profile")
