@@ -21,3 +21,48 @@
 - Compose 프로젝트 생성 및 Preview 기능 사용법 학습
 
 ### 3.1.2. 결과물
+![w01_Results](./images/w01.png)
+
+## 3.2. w03
+
+### 3.2.1. 학습내용
+- Column, Row, Box 등 기본 레이아웃 이해
+- Text, Button, TextField 등 UI 구성 요소 실습
+- MaterialTheme를 이용한 스타일 적용
+
+### 3.2.2. 결과물
+![w03_Results](./images/haiba.png)
+![w03_Results](./images/password.png)
+
+## 3.3. w04
+
+### 3.3.1. 학습내용
+- 프로필 화면 구성 (clip(CircleShape), Image 등 활용)
+- 전화 키패드 UI 구현 (Row, Column, Box 중첩)
+- 정렬 및 간격 조정 (Arrangement, Alignment 활용)
+
+### 3.3.2. 결과물
+![w04_Results](./images/numpad.png)
+![w04_Results](./images/profile.png)
+
+## 3.4. w05
+
+### 3.4.1. 학습내용
+- remember, mutableStateOf를 이용한 상태 유지
+- 버튼 이벤트(onClick) 및 값 변경 처리
+- LaunchedEffect와 delay()를 이용한 비동기 타이머 구현
+
+### 3.4.2. 결과물
+![w05_Results](./images/count.png)
+![w05_Results](./images/stopwatch.png)
+
+## 3.5. w06
+
+### 3.5.1. 학습내용
+- Canvas를 이용한 커스텀 드로잉
+- Modifier.clickable을 통한 터치 이벤트 감지
+- 점수 및 시간 제한이 있는 버블 터치 게임 제작
+- LaunchedEffect를 통한 타이머 및 상태 관리
+
+### 3.5.2.
+![w06_Results](./images/bubble.png)]
