@@ -9,6 +9,7 @@
 - 언어 : Kotlin
 - UI Framework : Jetpack Compose
 - Minimum SDK : API 32 (Android 12L)
+- Emulator : Pixel 9 Pro XL (Android 16, API 36)
 
 # 3. 주차별 실습 내용
 
@@ -64,5 +65,5 @@
 - 점수 및 시간 제한이 있는 버블 터치 게임 제작
 - LaunchedEffect를 통한 타이머 및 상태 관리
 
-### 3.5.2.
-![w06_Results](./images/bubble.png)]
+### 3.5.2. 결과물
+![w06_Results](./images/bubble.png)
