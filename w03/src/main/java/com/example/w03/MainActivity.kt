@@ -55,7 +55,7 @@ fun HomeScreen() {
                 painter = painterResource(id = R.drawable.compose),
                 contentDescription = "Jetpack Compose 로고",
                 modifier = Modifier
-                    .size(300.dp) // 이미지 크기 지정
+                    .size(300.dp)
                     .padding(16.dp)
             )
             Row(
@@ -65,8 +65,8 @@ fun HomeScreen() {
                 Button(onClick = { /* TODO: 커피 주문 동작 */ }) {
                     Text("커피 주문")
                 }
-                Button(onClick = { /* TODO: 쥬스 주문 동작 */ }) {
-                    Text("쥬스 주문")
+                Button(onClick = { /* TODO: 주스 주문 동작 */ }) {
+                    Text("주스 주문")
                 }
             }
             Text(
