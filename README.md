@@ -6,7 +6,7 @@
 
 # 2. 개발 환경
 - IDE : Android Studio (2025.01.04 Build)
-- 언어 : Kotlin
+- Language : Kotlin
 - UI Framework : Jetpack Compose
 - Minimum SDK : API 32 (Android 12L)
 - Emulator : Pixel 9 Pro XL (Android 16, API 36)
