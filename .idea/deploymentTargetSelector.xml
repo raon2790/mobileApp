@@ -2,37 +2,34 @@
 <project version="4">
   <component name="deploymentTargetSelector">
     <selectionStates>
-      <SelectionState runConfigName="w03">
-        <option name="selectionMode" value="DROPDOWN" />
-      </SelectionState>
-      <SelectionState runConfigName="app_01">
+      <SelectionState runConfigName="w01">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
       <SelectionState runConfigName="app">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
-      <SelectionState runConfigName="app_02">
+      <SelectionState runConfigName="w03_password_check">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
-      <SelectionState runConfigName="w04">
+      <SelectionState runConfigName="w03_compose_coffee">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
-      <SelectionState runConfigName="app_03">
+      <SelectionState runConfigName="w04_profile">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
       <SelectionState runConfigName="w04_numpad">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
-      <SelectionState runConfigName="w05_counter">
+      <SelectionState runConfigName="w05_stopwatch">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
-      <SelectionState runConfigName="w05_stopwatch">
+      <SelectionState runConfigName="w05_counter">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
       <SelectionState runConfigName="w06_bubble">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
-      <SelectionState runConfigName="w01">
+      <SelectionState runConfigName="w09">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
     </selectionStates>
